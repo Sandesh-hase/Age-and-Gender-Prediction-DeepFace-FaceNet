@@ -18,5 +18,4 @@ Identifying Age and bucketing them. Deepface predicts the numerical age. Usually
 ###### Download the data from here and keep it inside Humanns folder
 Dataset:- https://www.kaggle.com/code/ankitp013/age-and-gender-prediction-using-deepface/input
 
-###### Prediction
-![Alt text](prediction.png)
+
