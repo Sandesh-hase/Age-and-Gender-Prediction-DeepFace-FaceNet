@@ -14,3 +14,9 @@ This note book will cover the 2 aspects of deepface library.
 
 Identifying Gender
 Identifying Age and bucketing them. Deepface predicts the numerical age. Usually discrete age prediction is difficult to verify and hence we will project the age groups rather.
+
+###### Download the data from here and keep it inside Humanns folder
+Dataset:- https://www.kaggle.com/code/ankitp013/age-and-gender-prediction-using-deepface/input
+
+###### Prediction
+![Alt text](prediction.png)
